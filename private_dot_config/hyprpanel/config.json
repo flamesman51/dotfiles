@@ -1,0 +1,75 @@
+{
+  "scalingPriority": "hyprland",
+  "theme.bar.location": "top",
+  "bar.autoHide": "never",
+  "theme.bar.buttons.enableBorders": false,
+  "theme.bar.floating": false,
+  "theme.bar.border.location": "bottom",
+  "theme.bar.enableShadow": false,
+  "theme.bar.buttons.separator.margins": "0.15em",
+  "bar.launcher.icon": "",
+  "bar.launcher.autoDetectIcon": true,
+  "theme.bar.buttons.dashboard.enableBorder": true,
+  "bar.workspaces.show_icons": false,
+  "theme.bar.buttons.workspaces.enableBorder": false,
+  "bar.workspaces.show_numbered": true,
+  "bar.workspaces.showWsIcons": false,
+  "bar.workspaces.workspaceMask": false,
+  "bar.bluetooth.label": true,
+  "bar.layouts": {
+    "0": {
+      "left": [
+        "dashboard",
+        "workspaces",
+        "windowtitle"
+      ],
+      "middle": [
+        "media"
+      ],
+      "right": [
+        "volume",
+        "network",
+        "systray",
+        "clock",
+        "notifications"
+      ]
+    },
+    "1": {
+      "left": [
+        "dashboard",
+        "workspaces",
+        "windowtitle"
+      ],
+      "middle": [
+        "media"
+      ],
+      "right": [
+        "volume",
+        "clock",
+        "notifications"
+      ]
+    },
+    "2": {
+      "left": [
+        "dashboard",
+        "workspaces",
+        "windowtitle"
+      ],
+      "middle": [
+        "media"
+      ],
+      "right": [
+        "volume",
+        "clock",
+        "notifications"
+      ]
+    }
+  },
+  "menus.media.noMediaText": "No Media!!!",
+  "theme.osd.location": "right",
+  "menus.clock.time.military": true,
+  "menus.clock.weather.location": "Novokuznetsk",
+  "menus.clock.weather.unit": "metric",
+  "menus.clock.weather.enabled": false,
+  "menus.dashboard.stats.enable_gpu": true
+}
